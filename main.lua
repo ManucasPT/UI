@@ -1,5 +1,5 @@
 local Workspace, RunService, Players, CoreGui, Lighting = cloneref(game:GetService("Workspace")), cloneref(game:GetService("RunService")), cloneref(game:GetService("Players")), game:GetService("CoreGui"), cloneref(game:GetService("Lighting"))
-local Skybox = loadstring(game:HttpGet("https://raw.githubusercontent.com/ManucasPT/eclipse/main/Skyboxes.lua", true))();
+local Skybox = loadstring(game:HttpGet("https://raw.githubusercontent.com/ManucasPT/UI/main/Skyboxes.lua", true))();
 
 local utilities = {
     aimbot = {
